@@ -20,19 +20,12 @@ This app was built using **Glide (No-Code)** technology. It allows customers to 
 * **Database:** Glide Tables (Internal)
 * **Assets:** Cloud-hosted images for fast loading.
 
----
-
-## 📸 Screenshots
-*(Include your screenshots here)*
-![App Home]
 
 ---
 <img width="295" height="527" alt="Screenshot 2026-02-27 212853" src="https://github.com/user-attachments/assets/2b410119-6811-4f77-8165-c5ca8446ef60" />
 <img width="331" height="558" alt="Screenshot 2026-02-27 212842" src="https://github.com/user-attachments/assets/a69af65e-baba-498a-b62c-6fa5a3ee40b7" />
 
-## 🔗 Live Demo
-Check out the live app here: 
-👉 [**View Devinda's Bakery App**](https://your-app-link-here.glideapp.io)
+
 
 ---
 
