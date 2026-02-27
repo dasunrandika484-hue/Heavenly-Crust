@@ -31,6 +31,7 @@ This app was built using **Glide (No-Code)** technology. It allows customers to 
 
 ## 👨‍💻 Developed By<img width="328" height="503" alt="Screenshot 2026-02-27 212953" src="https://github.com/user-attachments/assets/4de03db0-547b-4ace-9c68-da1bcf1b2cfd" /><img width="331" height="558" alt="Screenshot 2026-02-27 212842" src="https://github.com/user-attachments/assets/a24d3a3b-d045-47e4-a953-35d9d0cc4dfe" />
 
+https://go.glideapps.com/app/O6TOEvfMu8VlWQSQ76Ig/layout
 
 <img width="295" height="527" alt="Screenshot 2026-02-27 212853" src="https://github.com/user-attachments/assets/93075d90-a383-4111-9d7a-8d56365e089b" /><img width="984" height="316" alt="Screenshot 2026-02-27 212912" src="https://github.com/user-attachments/assets/be7afe5f-a20c-4867-b579-067d6d773587" />
 <img width="55" height="141" alt="Screenshot 2026-02-27 212921" src="https://github.com/user-attachments/assets/e45b733e-9d1d-48ee-8216-947ed0046116" />
