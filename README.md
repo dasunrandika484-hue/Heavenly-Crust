@@ -27,6 +27,8 @@ This app was built using **Glide (No-Code)** technology. It allows customers to 
 ![App Home]
 
 ---
+<img width="295" height="527" alt="Screenshot 2026-02-27 212853" src="https://github.com/user-attachments/assets/2b410119-6811-4f77-8165-c5ca8446ef60" />
+<img width="331" height="558" alt="Screenshot 2026-02-27 212842" src="https://github.com/user-attachments/assets/a69af65e-baba-498a-b62c-6fa5a3ee40b7" />
 
 ## 🔗 Live Demo
 Check out the live app here: 
@@ -34,6 +36,8 @@ Check out the live app here:
 
 ---
 
-## 👨‍💻 Developed By
-**Devinda Dasun**
-*A passionate developer exploring the world of No-Code and Mobile Apps!*
+## 👨‍💻 Developed By<img width="328" height="503" alt="Screenshot 2026-02-27 212953" src="https://github.com/user-attachments/assets/4de03db0-547b-4ace-9c68-da1bcf1b2cfd" />
+<img width="992" height="145" alt="Screenshot 2026-02-27 212936" src="https://github.com/user-attachments/assets/740b6766-92c0-4978-970b-037e7db45d31" />
+<img width="323" height="164" alt="Screenshot 2026-02-27 212926" src="https://github.com/user-attachments/assets/2422be97-7187-48a7-88f9-f7cc279a80c2" />
+<img width="1365" height="709" alt="Screenshot 2026-02-27 214813" src="https://github.com/user-attachments/assets/07c07452-0d9b-4de9-871b-bc315e70b08c" />
+
