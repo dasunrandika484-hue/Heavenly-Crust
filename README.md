@@ -36,8 +36,12 @@ Check out the live app here:
 
 ---
 
-## 👨‍💻 Developed By<img width="328" height="503" alt="Screenshot 2026-02-27 212953" src="https://github.com/user-attachments/assets/4de03db0-547b-4ace-9c68-da1bcf1b2cfd" />
-<img width="992" height="145" alt="Screenshot 2026-02-27 212936" src="https://github.com/user-attachments/assets/740b6766-92c0-4978-970b-037e7db45d31" />
-<img width="323" height="164" alt="Screenshot 2026-02-27 212926" src="https://github.com/user-attachments/assets/2422be97-7187-48a7-88f9-f7cc279a80c2" />
-<img width="1365" height="709" alt="Screenshot 2026-02-27 214813" src="https://github.com/user-attachments/assets/07c07452-0d9b-4de9-871b-bc315e70b08c" />
+## 👨‍💻 Developed By<img width="328" height="503" alt="Screenshot 2026-02-27 212953" src="https://github.com/user-attachments/assets/4de03db0-547b-4ace-9c68-da1bcf1b2cfd" /><img width="331" height="558" alt="Screenshot 2026-02-27 212842" src="https://github.com/user-attachments/assets/a24d3a3b-d045-47e4-a953-35d9d0cc4dfe" />
+
+
+<img width="295" height="527" alt="Screenshot 2026-02-27 212853" src="https://github.com/user-attachments/assets/93075d90-a383-4111-9d7a-8d56365e089b" /><img width="984" height="316" alt="Screenshot 2026-02-27 212912" src="https://github.com/user-attachments/assets/be7afe5f-a20c-4867-b579-067d6d773587" />
+<img width="55" height="141" alt="Screenshot 2026-02-27 212921" src="https://github.com/user-attachments/assets/e45b733e-9d1d-48ee-8216-947ed0046116" />
+<img width="992" height="145" alt="Screenshot 2026-02-27 212936" src="https://github.com/user-attachments/assets/238baae4-f403-40c3-9cc2-868b0dd701a7" /><img width="323" height="164" alt="Screenshot 2026-02-27 212926" src="https://github.com/user-attachments/assets/b3edc947-41ba-4026-96f5-99a0e15e2fe2" />
+<img width="328" height="503" alt="Screenshot 2026-02-27 212953" src="https://github.com/user-attachments/assets/061a1399-fc72-4430-8518-fbdd92da66af" />
+
 
